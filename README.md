@@ -24,8 +24,10 @@ Once you have deployed the JointSavings contract, you can interact with it throu
 * Use the deposit function to deposit funds into the contract.
 * Use the withdraw function to withdraw funds from the contract.
 
-## Contributing
-Contributions to this project are welcome. If you find a bug or have a suggestion for an improvement, please open an issue or submit a pull request.
-
+## Visuals
+[Sent 5 Ether]https://imgur.com/ZsJMBPn
+[Sent 10 Ether]https://imgur.com/oDWvkYi
+[Withdrew 10]https://imgur.com/OZY4nwb
+[Withdrew 5]https://imgur.com/7MPC1G4
 ## License
 This project is licensed under the MIT License - see the LICENSE.md file for details.
