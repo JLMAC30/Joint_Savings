@@ -29,5 +29,6 @@ Once you have deployed the JointSavings contract, you can interact with it throu
 [Sent 10 Ether]https://imgur.com/oDWvkYi
 [Withdrew 10]https://imgur.com/OZY4nwb
 [Withdrew 5]https://imgur.com/7MPC1G4
+[Sent 1]https://imgur.com/ccCFwQI
 ## License
 This project is licensed under the MIT License - see the LICENSE.md file for details.
